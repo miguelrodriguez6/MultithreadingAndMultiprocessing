@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MAIN_CLASS="org.assessment.multipleprocess.Main"
+MAIN_CLASS="org.multi.multipleprocess.Main"
 
 echo "Compiling"
 mvn clean compile
